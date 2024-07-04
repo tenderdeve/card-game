@@ -1,6 +1,6 @@
 // vite.config.js
-import { defineConfig } from "file:///home/rohit/projects/NFT_card_game/client/node_modules/vite/dist/node/index.js";
-import react from "file:///home/rohit/projects/NFT_card_game/client/node_modules/@vitejs/plugin-react/dist/index.mjs";
+import { defineConfig } from "file:///home/projects/NFT_card_game/client/node_modules/vite/dist/node/index.js";
+import react from "file:///home/projects/NFT_card_game/client/node_modules/@vitejs/plugin-react/dist/index.mjs";
 var vite_config_default = defineConfig({
   plugins: [react()]
 });
